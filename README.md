@@ -1,1 +1,1 @@
-# 5g-core-lab
+Work in progress — deploying Free5GC + UERANSIM on Kubernetes.
